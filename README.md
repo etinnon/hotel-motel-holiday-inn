@@ -1,2 +1,1 @@
-# hotel-motel-holiday-inn
-hotel lab
+# 376-hotel-lab
